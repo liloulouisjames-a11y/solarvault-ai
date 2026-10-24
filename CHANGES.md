@@ -15,4 +15,5 @@ EDGEONE: framework Other/Static, build command none, output dir ./ (index.html a
 - New sections: "Who it's for", "How it works" (3 steps)
 - Placeholders clearly labelled PLACEHOLDER (testimonials, result, guarantee)
 - SEO: canonical, OG + Twitter card with og.jpg (1200x630), SVG favicon
+- SolarVault: "See it in action" with 3 official @greenecosolar TikTok embeds + Follow button; AgencyVault: footer link to @greenecosolar
 - Checkout still Stripe placeholder with "Checkout is not live yet" guard; no fake urgency/stats/reviews
